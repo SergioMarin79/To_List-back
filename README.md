@@ -32,7 +32,7 @@ Este proyecto ha sido desarrollado utilizando la tecnología de **NestJS**. A co
    
    - Sube la carpeta comprimida a la máquina en el servidor.
    
-   - Es importante copiar el archivo `package.json` dentro de la carpeta `dist`, ya que dentro del servidor necesitaremos ejecutar un `npm i` para instalar las dependencias.
+   - Es importante tener las dependencias  dentro del servidor del ambiente de  `despliegue`, ya que dentro del servidor necesitaremos ejecutar un `npm i` para instalar las dependencias.
    
 4. **Construir y ejecutar el proyecto en el servidor**  
    Una vez que las dependencias se han instalado, ejecuta el siguiente comando para iniciar el servidor:
